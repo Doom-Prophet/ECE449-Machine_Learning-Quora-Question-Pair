@@ -1,19 +1,6 @@
 # Quora Question Pair
 
-deploy to website: [zzb66666666x/Deploy-Quora-Question-Pair-Model: deploy the quora question pair model to web app (github.com)](https://github.com/zzb66666666x/Deploy-Quora-Question-Pair-Model)
-
-## Author @ ZJU-UIUC Institue
-
-- Zhu Zhongbo
-- Xiao Shuhong
-- Pan Bo
-- Lian Xinyu
-
-- Lu Yichen
-
 ## How to run Bi-LSTM/CNN/MLP
-
-github: [zzb66666666x/ECE449_Quora_Question_Pair (github.com)](https://github.com/zzb66666666x/ECE449_Quora_Question_Pair)
 
 1. make sure you have the following pre-processed data
 
